@@ -1,0 +1,10 @@
+{
+  "name": "rake-vendor",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "dependencies": {
+    "Chart.js": "~1.0.2",
+    "animate.css": "~3.4.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "javascripts": {
+    "Chart": "Chart.js/Chart.js",
+    "humanize": "humanize-plus/public/src/humanize.js"
+  },
+  "stylesheets": {
+    "animate.css": "animate.css/animate.css"
+  }
+}
