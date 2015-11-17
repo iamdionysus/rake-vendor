@@ -42,3 +42,6 @@ vendor
 
 ## Install
 
+```bash
+curl -LSso lib/tasks/vendor.rake https://raw.githubusercontent.com/iamdionysus/rake-vendor/master/Rakefil://raw.githubusercontent.com/iamdionysus/rake-vendor/master/Rakefile 
+```
