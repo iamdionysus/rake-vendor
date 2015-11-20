@@ -29,6 +29,9 @@ or npm module you want to use. Edit `vendor.json` properly. Finally,
 
 Given that the bower_components and node_modules are installed properly, 
 With the `vendor.json` above, running `rake vendor:install` will create this.
+It starts to search searches `bower_components` and `node_modules` directory
+starting from where the `vendor.json` located.
+
 
 ```bash
 vendor
